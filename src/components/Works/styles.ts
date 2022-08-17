@@ -76,7 +76,7 @@ export const PortfolioCard = styled.div`
 `;
 
 export const PortfolioIcon = styled.div`
-  > img {
+  > a > img {
     height: 200px;
     width: 250px;
     margin-bottom: 10px;
